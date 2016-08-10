@@ -11,3 +11,6 @@ See 'intro-to-metagenomics_final_withNotes.pdf'
 
 ## To view active links
 See 'intro-to-metagenomics_final_withNotes.pdf'
+
+## All concepts covered in EDAMAME 2016
+[https://github.com/edamame-course/2015-tutorials/wiki/Learning-Goals](https://github.com/edamame-course/2015-tutorials/wiki/Learning-Goals "https://github.com/edamame-course/2015-tutorials/wiki/Learning-Goals")
